@@ -1,0 +1,2 @@
+# training
+jadi git train
